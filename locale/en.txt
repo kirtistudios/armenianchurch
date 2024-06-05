@@ -1,0 +1,119 @@
+#: locale=en
+
+## Action
+
+### URL
+WebFrame_F704B1EF_E731_B5E3_41D4_FC7A380B9FAF.url = https://app.vectary.com/p/3wTPClPurbdM4nsJENa4t2
+PopupWebFrameBehaviour_C380B836_E773_9264_41E0_02A4D7B1A0BD.url = https://kirtistudios2019.wixsite.com/kirtistudios
+WebFrame_6F711FB9_4F63_E66D_41BF_A46A12A007A6.url = https://sketchfab.com/models/6d55c12b4c094858927517ce1aad4e60/embed
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182
+WebFrame_56EF9ED8_4F1D_662B_41CC_C1BACB60D8FC.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652.976512366759!2d90.40013161498065!3d23.712532784608037!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b91d2d670b07%3A0x5d29eaeb6be69c5a!2sArmenian%20Church%20Dhaka!5e0!3m2!1sen!2sbd!4v1663480134335!5m2!1sen!2sbd
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_8AFD04F2_80FB_12DD_419E_F100DB897317.text = VIEW 3D MODEL
+HotspotPanoramaOverlayTextImage_8AF48506_80FB_1345_41C0_BE116155D7BE.text = VIEW 3D MODEL
+
+## Media
+
+### Audio
+AudioResource_8AD82602_80FB_113D_41BE_D0E687D4BCEF.mp3Url = media/audio_48DAA43B_5062_764E_41BC_155F2595BC46_en.mp3
+
+### Audio Subtitles
+
+### Image
+imlevel_C0FBF6C8_E771_9E2C_41C0_EBC53EB226EE.url = media/panorama_F509133C_F8EF_2350_41E1_BC7C86D6F9A2_HS_4m1t8zyd_en.webp
+imlevel_F0437682_E771_9E1D_41E5_9B1D22C54D97.url = media/panorama_FC6DDC5E_F79E_AD95_41D4_AA4F8A2FECC2_HS_7iisj4y2_en.webp
+
+### Title
+panorama_F504A00A_F8E9_3D30_41E5_D44F807D8580.label = 1 (4)
+panorama_F5042B52_F8E9_23D0_41C0_3677FE146E18.label = 1 (5)
+panorama_F50678DB_F8E9_6ED7_41E3_D009DC1D022A.label = 1 (6)
+panorama_F5044501_F8E9_6730_41EB_7D3364A50D21.label = 1 (7)
+panorama_F50B4936_F8EF_6F51_41E0_491645A96747.label = Archway
+panorama_F50B238D_F8EF_6330_41EA_A5CC592D6F2D.label = Archway
+panorama_F5050FFC_F8EF_62D0_41C2_9DA3CAF674C5.label = Archway
+panorama_F50A2D50_F8EF_27D1_41EE_85F04BF84D91.label = Archway
+panorama_F50BF24D_F8E8_DD30_41D0_7DB12B24CB08.label = Archway
+panorama_F5048FD2_F8EF_22D1_41E9_AB387B95FBE3.label = Archway
+panorama_F50A4B6F_F8EF_63F0_41B6_680D8D765D14.label = Archway
+panorama_F5044C4E_F8EF_2530_41D6_7EBF53AD3217.label = Archway
+panorama_F50B4E0F_F8EF_254F_41EC_C5435343B097.label = Archway
+panorama_F64E21EB_F8D9_5EF0_41D5_5A1E63808F4A.label = Church Entrance
+panorama_F507662D_F8D7_6573_41D7_360EA163EE28.label = Church Interior
+panorama_F5075ACF_F8D7_6D30_41EB_E34551569B35.label = Church Interior
+panorama_F5075DE7_F8D7_E6F0_41EB_9CDBC4F2BE13.label = Church Interior
+panorama_F6E082F7_F8D7_E2D0_41EA_52BF92934341.label = Church Interior
+panorama_F507D3AE_F8D7_2370_41BE_4584F42483ED.label = Church Interior
+panorama_F5072F68_F8D7_23F0_41E2_BD3F4B667535.label = Church Interior
+panorama_F50728E0_F8D7_2EF0_41D2_9A85AEF2508A.label = Church Interior
+panorama_F6351527_F8E9_2770_41A1_95F27EDE8739.label = Church Stairs
+panorama_F504F62F_F8E9_254F_41D5_139DDE2F35AE.label = Church terrace
+panorama_F503A131_F8E9_5F53_41E9_BF73C835EB2C.label = Church terrace
+panorama_F505A911_F8E9_EF50_41E5_198DD5E95304.label = Church terrace
+panorama_F5070F9A_F8E9_6350_41EE_24F72FF4931F.label = Church terrace
+panorama_F505D75A_F8E9_23D0_41D8_0BF8A2A62CB6.label = Church terrace
+panorama_F506706B_F8E9_3DF0_41C6_4AC71C9E688A.label = Church terrace
+panorama_F501841B_F8E9_2550_41D1_63EF5B18F871.label = Church terrace
+panorama_F507ADE1_F8E9_26F0_41D4_63B2A050FE1C.label = Church terrace
+panorama_F507215E_F8D7_5FD0_41D9_44A0D005B9B9.label = Church terrace
+panorama_F5054FA1_F8E9_2373_41D3_AF1163286769.label = Church terrace
+panorama_F5053BE5_F8E9_E2F3_41CD_F2DCB9016B35.label = Church terrace
+panorama_F501B112_F8E9_7F50_41D6_E4D48922F610.label = Church terrace
+panorama_F518AE76_F8DB_E5D0_41E3_28D003AEAC3E.label = Courtyard Center
+panorama_FC6DDC5E_F79E_AD95_41D4_AA4F8A2FECC2.label = Drone Shot
+panorama_F50E788D_F8E8_ED30_41E3_7C474B8FA497.label = Entrance
+panorama_F50D0B63_F8EF_23F0_41BD_9AFA4E6D579D.label = Frontyard
+panorama_F50D5CF1_F8EF_E6D0_41CC_388F0DBAACE2.label = Frontyard
+panorama_F5046717_F8EF_2350_41E4_47E09D31E4B1.label = Frontyard
+panorama_F50EA89E_F8EF_2D50_41C7_4FFB6DD0A51E.label = Frontyard
+panorama_F5095E73_F8EF_E5D0_41EB_457EAD2FD506.label = Frontyard
+panorama_F5093615_F8EF_6550_41EE_484CFA0E077B.label = Frontyard
+panorama_F509133C_F8EF_2350_41E1_BC7C86D6F9A2.label = Frontyard
+panorama_F50E6E24_F8E9_E570_41B6_6D423D0AC472.label = Graveyard
+panorama_F50CB2F0_F8E9_22D0_41E2_E269E3CFA9EA.label = Graveyard
+panorama_F50DD085_F8E9_3D33_41EC_8F53A0739A81.label = Graveyard
+panorama_F50EDC30_F8E9_2550_41EB_30E6B47F3593.label = Graveyard
+panorama_F50EB75C_F8E9_63D0_41EA_D1C091EE82C2.label = Graveyard
+panorama_F508153A_F8E9_6750_41E3_2CF5100A3186.label = Graveyard
+panorama_F50A1348_F8E9_2330_41E1_4DFE1CB7EFF2.label = Graveyard
+panorama_F517B11C_F8E9_3F50_41CD_2EDEA87D82FD.label = Graveyard
+panorama_F50880FE_F8E9_DED0_41E0_01B0005848F2.label = Graveyard
+panorama_F5007625_F8E8_E570_41DF_0E951C0BDCD8.label = Graveyard
+panorama_F50FAAA8_F8E9_ED70_41BA_BE63C585FE19.label = Graveyard
+panorama_F50E7745_F8E9_2330_41EA_B27B3F93D339.label = Graveyard
+panorama_F50F3589_F8E9_2730_4196_ADAF5CE943C5.label = Graveyard
+panorama_F509C21E_F8E9_5D50_41ED_8BF7488F5A0D.label = Graveyard
+panorama_F50F9F4B_F8E9_6330_41E7_E96226D070D9.label = Graveyard
+panorama_F50E0CE6_F8E9_66F0_41B1_6BF5230AE6DA.label = Graveyard
+panorama_F50D3886_F8E9_2D30_41EC_966465FA643A.label = Graveyard
+panorama_F50D93FD_F8E9_22D3_41EF_095069E740AE.label = Graveyard
+
+## Right Click Menu
+
+### Text
+menuItem_C589A6B4_E770_7E65_41D1_6EF5FBD8EFE5.label = Created by KIRTI Studios
+
+## Skin
+
+### Image
+Image_41F4B135_5577_2DC5_41C6_5E8D3E2D7BF2.url = skin/Image_41F4B135_5577_2DC5_41C6_5E8D3E2D7BF2_en.png
+Image_41F5530E_5574_EDC7_41C1_F459C1BA2FBA.url = skin/Image_41F5530E_5574_EDC7_41C1_F459C1BA2FBA_en.png
+Image_5E0DB8B3_4EB8_0AF1_41BA_EFEAC726BD23.url = skin/Image_5E0DB8B3_4EB8_0AF1_41BA_EFEAC726BD23_en.png
+
+### Label
+Label_5BAC6AEE_542D_45DA_417A_13659FAE5654.text = 360 VIRTUAL TOUR
+Label_5BAC7AEE_542D_45DA_41BB_4BC0F166F844.text = ARMENIAN CHURCH, DHAKA
+Label_46A210BC_557D_2CC4_418B_5A8A0606EB22.text = View Armenian Church 3D Model
+Label_410DC497_557D_D4C5_41C9_4044FECE8D71.text = View statue 3D Model
+
+### Multiline Text
+HTMLText_779EB5E4_621D_011F_41B8_98BF292E2BEB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:40px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:40px;font-family:'Roboto';"><B>Statue of an angel</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Roboto';"><B>On the grave of Catachik Avatik Thomas</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Roboto';">In the old graveyard, amongst the 350 bodies buried there, a statue of an angel stands at the grave of Catachik Avatik Thomas, portraying his wife. The statue was brought form Kolkata and the grave is inscribed with the words "Best of Husbands". The statue is missing its right hand which used to point one  finger towards the sky.</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name =  Armenian Church 360 Virtual Tour
